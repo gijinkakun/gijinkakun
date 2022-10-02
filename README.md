@@ -63,13 +63,6 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 ![Gijinkakuns's Streaks](https://github-readme-streak-stats.herokuapp.com?user=gijinkakun&theme=none&hide_border=false&background=FFFFFF00)
 
 <!--START_SECTION:waka-->
-
-![Gijinkakun's Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2025%20mins-blue)
-
-![Gijinkakun's Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
-
-![Gijinkakun's Visitors](https://visitor-badge.glitch.me/badge?page_id=gijinkakun)
-
 <!--END_SECTION:waka-->
 
 Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
