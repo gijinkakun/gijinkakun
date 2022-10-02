@@ -1,4 +1,4 @@
-## **𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰** <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+## Hello There, Fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
 I'm Christopher, a Web Developer who is passionate about creating engaging UI and interactive experiences. I'm also an animator and in my spare time I like to write tutorials on web development.
 
@@ -35,6 +35,14 @@ I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, 
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
 
 ### Some Of My Stats:
+<details>
+<summary>:zap: Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
+<details>
+<summary>:zap: GitHub Stats</summary>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gijinkakun&show_icons=true&locale=en&layout=compact&icon_color=fff&bg_color=30,4158D0,C850C0&title_color=fff&text_color=fff" alt="gijinkakun">
 
@@ -43,9 +51,25 @@ I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, 
 ![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2017%20mins-blue)
 
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<details>	
+<summary>⚙️ Things I Use to Get Stuff Done</summary>
+
+- **OS:** MAC OS
+- **Laptop:** 2019 Mac Book Pro.
+- **Browser:** Chrome Web Browser.
+- **Code Editor:** VSCode - The best editor out there.
+- **To Stay Updated:** <a href="https://www.linkedin.com/in/gijinkakun">Linkedin</a>
+
+- ⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+</details>
 
 ### Connect With Me:
 <a href="https://codepen.io/gijinkakun" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gijinkakun" width="22px"></a>
 <a href="https://twitter.com/gijinkakun" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gijinkakun" width="22px"></a>
 <a href="https://www.linkedin.com/in/gijinkakun"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Gijinkakun's LinkedIN" width="22px"></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=gijinkakun.gijinkakun)
+
+### Show some ❤️ by starring some of the repositories!
+
