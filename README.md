@@ -8,6 +8,8 @@ I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, 
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gijinkakun" alt="gijinkakun" /></a>
 
+[![Gijinkakuns GitHub stats](https://github-readme-stats.vercel.app/api?username=gijinkakun)](https://github.com/gijijinkakun/github-readme-stats)
+
 ### Facts About Me
 
 - I’m currently learning **React.js, Next.js, Typescript**
