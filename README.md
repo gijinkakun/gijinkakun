@@ -1,4 +1,4 @@
-# Hello There, Fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+## Hello There, Fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
 I'm Christopher, a Web Developer who is passionate about creating engaging UI and interactive experiences. I'm also an animator and in my spare time I like to write tutorials on web development.
 
@@ -6,7 +6,7 @@ I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, 
 
 ---
 
-## Facts About Me
+### Facts About Me
 
 - 🔭 I’m currently working on [A single page portfolio using HTML, CSS, and JavaScript.](https://github.com/gijinkakun/single-page-site)
 
@@ -21,7 +21,7 @@ I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, 
 
 ---
 
-## Languages and Tools:
+### Languages and Tools:
 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -40,7 +40,7 @@ I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, 
 
 ---
 
-## Some Of My Stats:
+### Some Of My Stats:
 <details>
 <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
@@ -49,11 +49,21 @@ I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, 
 
 <details>
 <summary>:zap: GitHub Stats</summary>
+
 <br>
-<a href="https://github.com/anuraghzar/github-readme-stats"><img alt="Gijinkakun's Github Stats" src="https://gijinkakun-github-readme-stats.vercel.app/api/?username=gijinkakun1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Gijinkakun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gijinkakun&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gijinkakun&show_icons=true&title_color=ffffff&bg_color=ffffff&locale=en" alt="gijinkakun" />
+
 <br>
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gijinkakun&show_icons=true&title_color=ffffff&bg_color=ffffff&locale=en&layout=compact" alt="gijinkakun" />
+
+<br>
+<br>
+
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 </details>
 
 <details>	
