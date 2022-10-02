@@ -4,6 +4,8 @@ I'm Christopher, a Web Developer who is passionate about creating engaging UI an
 
 I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, and SASS.
 
+Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my full work experience, education and certification.
+
 ---
 
 ### Facts About Me
@@ -52,17 +54,11 @@ I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, 
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gijinkakun&show_icons=true&title_color=ffffff&bg_color=ffffff&locale=en" alt="gijinkakun" />
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gijinkakun&show_icons=true&count_private=true&theme=none&hide_border=true&hide=issues,contribs&bg_color=00000000">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gijinkakun&layout=compact&hide_border=true&theme=none&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=gijinkakun&theme=none&hide_border=true&background=FFFFFF00">
 
-<br>
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gijinkakun&show_icons=true&title_color=ffffff&bg_color=ffffff&locale=en&layout=compact" alt="gijinkakun" />
-
-<br>
-<br>
-
-**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 </details>
 
@@ -75,8 +71,8 @@ I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, 
 - **Laptop:** 2019 Mac Book Pro.
 - **Browser:** Chrome Web Browser.
 - **Code Editor:** VSCode - The best editor out there.
-- **To Stay Updated:** <a href="https://www.linkedin.com/in/gijinkakun">Linkedin</a>
-- ⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/gijinkakun/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+- **To Stay Updated:** [Twitter](https://twitter.com/gijinkakun) or on [Linkedin](https://www.linkedin.com/in/gijinkakun).
+- ⚛️ Checkout My VSCode Configrations [here](https://twitter.com/gijinkakun)
   
 </details>
 
