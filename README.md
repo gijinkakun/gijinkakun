@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gijinkakun&label=Profile%20views&color=9FACE6&style=flat" alt="gijinkakun" /> </p>
 
-<p>Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> I'm Christopher, a Web Developer who is passionate about creating engaging UI and interactive experiences. I'm also an animator and like in my spare time write tutorials on web development.</p>
+<p>Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> I'm Christopher, a Web Developer who is passionate about creating engaging UI and interactive experiences. I'm also an animator and in my spare time I like to write tutorials on web development.</p>
 <p>I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, and SASS. 
 </p>
 
