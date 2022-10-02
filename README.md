@@ -45,8 +45,10 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 ### Some Of My Stats:
 <details>
 <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+  
 </details>
 
 <details>
