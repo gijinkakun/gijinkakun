@@ -4,6 +4,8 @@ I'm Christopher, a Web Developer who is passionate about creating engaging UI an
 
 I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, and SASS.
 
+<br />
+
 ### Facts About Me
 
 - 🔭 I’m currently working on [A single page portfolio using HTML, CSS, and JavaScript.](https://github.com/gijinkakun/single-page-site)
@@ -16,6 +18,8 @@ I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, 
 - 💬 Ask me about **SASS, JavaScript, Adobe products, HTML, CSS, and general Web Development.**
 
 - 📫 How to reach me **Gijinkakun@gmail.com**, or send me a DM on [Twitter](https://twitter.com/gijinkakun)
+
+<br />
 
 ### Languages and Tools:
 
@@ -32,7 +36,9 @@ I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
+<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
+
+<br />
 
 ### Some Of My Stats:
 <details>
@@ -58,7 +64,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 <details>	
 <summary>⚙️ Things I Use to Get Stuff Done</summary>
 
- <br>
+<br>
   
 - **OS:** MAC OS
 - **Laptop:** 2019 Mac Book Pro.
@@ -69,13 +75,19 @@ Note: Top languages is only a metric of the languages my public code consists of
   
 </details>
 
+<br />
+
 ### Connect With Me:
 <a href="https://codepen.io/gijinkakun" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gijinkakun" width="22px"></a>
 <a href="https://twitter.com/gijinkakun" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gijinkakun" width="22px"></a>
 <a href="https://www.linkedin.com/in/gijinkakun"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Gijinkakun's LinkedIN" width="22px"></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=gijinkakun.gijinkakun)
 
+<br />
+
 <div align="center">
+
 ### Show some ❤️ by starring some of the repositories!
+
 </div>
 
