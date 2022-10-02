@@ -65,7 +65,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 </details>
 
