@@ -1,4 +1,4 @@
-## Hello There, Fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+# Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
 I'm Christopher, a Web Developer who is passionate about creating engaging UI and interactive experiences. I'm also an animator and in my spare time I like to write tutorials on web development.
 
