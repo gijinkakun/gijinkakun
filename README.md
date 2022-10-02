@@ -1,11 +1,12 @@
-# Hi 👋, I'm Christopher Satterthwaite
-### A Web Developer from Canada
+# Hi, I'm Christopher Satterthwaite
+
+<img src="https://komarev.com/ghpvc/?username=gijinkakun&label=Profile%20views&color=0e75b6&style=flat" alt="gijinkakun" />
  
-Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> I'm Christopher, a Web Developer who is passionate about creating engaging UI and interactive experiences. I'm also an animator and in my spare time I like to write tutorials on web development.
+Hello there I'm Christopher, a Web Developer who is passionate about creating engaging UI and interactive experiences. I'm also an animator and in my spare time I like to write tutorials on web development.
 
 I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, and SASS.
 
-<img src="https://komarev.com/ghpvc/?username=gijinkakun&label=Profile%20views&color=0e75b6&style=flat" alt="gijinkakun" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gijinkakun" alt="gijinkakun" /></a>
 
 ### Facts About Me
 
@@ -29,6 +30,8 @@ I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gijinkakun&show_icons=true&locale=en&layout=compact" alt="gijinkakun" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gijinkakun&" alt="gijinkakun" />
 
 ### Connect With Me:
 <a href="https://codepen.io/gijinkakun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gijinkakun" height="30" width="40" /></a>
