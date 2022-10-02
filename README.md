@@ -44,6 +44,8 @@ I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, 
 <details>
 <summary>:zap: GitHub Stats</summary>
 
+<br>
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gijinkakun&show_icons=true&locale=en&layout=compact&icon_color=fff&bg_color=30,4158D0,C850C0&title_color=fff&text_color=fff" alt="gijinkakun">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gijinkakun&show_icons=true&icon_color=fff&bg_color=30,4158D0,C850C0&title_color=fff&text_color=fff&locale=en" alt="gijinkakun" />
@@ -56,13 +58,15 @@ Note: Top languages is only a metric of the languages my public code consists of
 <details>	
 <summary>⚙️ Things I Use to Get Stuff Done</summary>
 
+ <br>
+  
 - **OS:** MAC OS
 - **Laptop:** 2019 Mac Book Pro.
 - **Browser:** Chrome Web Browser.
 - **Code Editor:** VSCode - The best editor out there.
 - **To Stay Updated:** <a href="https://www.linkedin.com/in/gijinkakun">Linkedin</a>
-
 - ⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+  
 </details>
 
 ### Connect With Me:
@@ -71,5 +75,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 <a href="https://www.linkedin.com/in/gijinkakun"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Gijinkakun's LinkedIN" width="22px"></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=gijinkakun.gijinkakun)
 
+<div align="center">
 ### Show some ❤️ by starring some of the repositories!
+</div>
 
