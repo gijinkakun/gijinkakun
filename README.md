@@ -54,9 +54,11 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 
 <br>
 
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gijinkakun&show_icons=true&count_private=true&theme=none&hide_border=true&hide=issues,contribs&bg_color=00000000">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gijinkakun&layout=compact&hide_border=true&theme=none&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=gijinkakun&theme=none&hide_border=true&background=FFFFFF00">
+![Gijinkakun's github Stats](https://github-readme-stats.vercel.app/api?username=gijinkakun&show_icons=true&count_private=true&theme=none&hide_border=false&hide=issues,contribs&bg_color=00000000)
+
+![Gijinkakkuns's github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gijinkakun&layout=compact&hide_border=false&theme=none&bg_color=00000000)
+
+![Gijinkakuns's github Streaks](https://github-readme-streak-stats.herokuapp.com?user=gijinkakun&theme=none&hide_border=false&background=FFFFFF00)
 
 Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
