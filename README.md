@@ -124,4 +124,4 @@ Other           21 mins         █████▒░░░░░░░░░░
 [<img alt="linkedin" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>](https://www.linkedin.com/in/gijinkakun)
 
 
-Loved my work? Please consider [buying me a coffe :coffee:](https://paypal.me/gijinkakun?country.x=CA&locale.x=en_US) to help :).
+Loved my work? Please consider [buying me a coffe :coffee:](https://paypal.me/gijinkakun?country.x=CA&locale.x=en_US) to help out :hugs:.
