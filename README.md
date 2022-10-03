@@ -5,10 +5,8 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 ### Currently Reading:
 
-<!-- Updates to Goodreads:START -->
-[**The Umbrella Academy, Vol. 1:  Apocalypse Suite**](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
-<!-- Updates to Goodreads:END -->
-
+<!-- Updates to Goodreads Currently Reading:START -->
+<!-- Updates to Goodreads Currently Reading:END -->
 
 ### Facts About Me:
 
@@ -49,9 +47,8 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 <br>
   
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/gijinkakun/single-page-site/issues/1) in [gijinkakun/single-page-site](https://github.com/gijinkakun/single-page-site)
-<!--END_SECTION:activity-->
+<!-- Update Readme with Github Recent Activity Stats:START -->
+<!-- Update Readme with Github Recent Activity Stats:END -->
   
 </details>
 
@@ -68,8 +65,8 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 ![Gijinkakun's Trophies](https://github-profile-trophy.vercel.app/?username=gijinkakun)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- Update Readme with Wakatime Stats:START -->
+<!-- Update Readme with Wakatime Stats:END -->
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -80,12 +77,8 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 <br>
 
-<!-- TODO-IST:START -->
-🏆  100 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 2 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
+<!-- Update Readme with Todoist Stats:START -->
+<!-- Update Readme with Todoist Stats:END -->
 
 </details>
 
