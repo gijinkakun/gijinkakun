@@ -1,3 +1,5 @@
+<div style="background: #fafafa; border: 1px solid #cccccc"; padding:16px; width:80%;>
+
 # Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
 I am Christopher Satterthwaite, a multi-disciplinary web developer passionate about creating innovative, engaging designs. My other passions are animation, writing, and reading. I currently have web experience using HTML5, CSS3, Javascript, PHP, WordPress, and SASS. Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my whole work experience, education, and certification.
@@ -125,3 +127,5 @@ Other           21 mins         █████▒░░░░░░░░░░
 
 
 Loved my work? Please consider [buying me a coffee](https://paypal.me/gijinkakun?country.x=CA&locale.x=en_US) to help :).
+
+I'm</div>
