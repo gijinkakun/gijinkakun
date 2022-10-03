@@ -7,13 +7,13 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update Readme with Wakatime Stats
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "Updated dev metrics"
+          COMMIT_MESSAGE: "Updates to Wakatime Stats"
           COMMIT_USERNAME: "gijinkakun"
           COMMIT_EMAIL: "gijinkakun@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
