@@ -69,7 +69,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 <br>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/gijinkakun/single-page-site/issues/1) in [gijinkakun/single-page-site](https://github.com/gijinkakun/single-page-site)
+1. ❗️ Closed issue [#1](https://github.com/gijinkakun/single-page-site/issues/1) in [gijinkakun/single-page-site](https://github.com/gijinkakun/single-page-site)
 <!--END_SECTION:activity-->
   
 </details>
