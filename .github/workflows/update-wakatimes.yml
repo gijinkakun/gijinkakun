@@ -1,23 +1,32 @@
-name: WakaTime Readme
+name: wakatime-stats
 
 on:
   schedule:
-    - cron: '0 20 * * *'
+    - cron: '30 16 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@6a37da63537fdc1cd0722c72c02c9f416f2cc7a6
+      - uses: anmol098/waka-readme-stats@master
         with:
+          COMMIT_BY_ME: "True"
+          COMMIT_MESSAGE: "Updated Wakatime / Dev Metrics"
+          COMMIT_USERNAME: "gijinkakun"
+          COMMIT_EMAIL: "gijinkakun@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: Update Wakapi stats
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_TITLE: true
-          SHOW_TOTAL: true
-
-
-  
-
+          GH_TOKEN: ${{ secrets.GIJINKAKUN_TOKEN }}
+          USERNAME: gijinkakun # optional, it will automatically use the username of the owner of the repository who's executing the workflow.
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_SHORT_INFO: "True"
