@@ -67,20 +67,14 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 ![Gijinkakuns's Streaks](https://github-readme-streak-stats.herokuapp.com?user=gijinkakun&theme=none&hide_border=false&background=FFFFFF00)
 
 ![Gijinkakun's Trophies](https://github-profile-trophy.vercel.app/?username=gijinkakun)
+
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2034%20mins-blue)
 
-```text
-From: 02 October 2022 - To: 03 October 2022
-
-Total Time: 1 hr 16 mins
-
-Markdown        25 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
-HTML            21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
-Other           21 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-294%20Thousand%20lines%20of%20code-blue)
 
 <!--END_SECTION:waka-->
-
+  
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 </details>
