@@ -127,5 +127,5 @@ Other           21 mins         █████▒░░░░░░░░░░
 
 ---
 
-A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.
-You miss 100% of the shots you don't take.
+Loved my work? Please consider [buying me a coffee](https://paypal.me/gijinkakun?country.x=CA&locale.x=en_US) to help :).
+
