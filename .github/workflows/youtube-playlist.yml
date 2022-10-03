@@ -1,17 +1,13 @@
-
-name: Update the Youtube playlist
+name: Update README with YouTube My Mix
 on:
-  push:
-    branches:
-      - master
   schedule:
-    # runs every hour
-    - cron: '0 22 * * *'
+    - cron: '0 * * * *' # runs every hour
 jobs:
   update-readme:
-    name: Update the Youtube playlist
+    name: Update the profile README
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
@@ -23,22 +19,3 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
-      - name: Install Python dependencies
-        run: |
-          python -m pip install -r requirements.txt
-      - name: Write MyMix to README
-        env:
-          TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
-          REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
-          CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
-          CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
-        run: |
-          python write_youtube_mymix.py
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        name: commit and push
-        with:
-          commit_message: "Update YouTube Mymix"
-          file_pattern: "README.md"
-          commit_user_name: "mymix-bot"
-          commit_user_email: "gijinkakun@gmail.com"
-          push_options: "--force"
