@@ -75,6 +75,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 
 ![Gijinkakuns's Streaks](https://github-readme-streak-stats.herokuapp.com?user=gijinkakun&theme=none&hide_border=false&background=FFFFFF00)
 
+![Gijinkakun's Trophies](https://github-profile-trophy.vercel.app/?username=gijinkakun)
 <!--START_SECTION:waka-->
 
 ```text
