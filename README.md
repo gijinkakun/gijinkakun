@@ -79,6 +79,10 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 <!--START_SECTION:waka-->
 
 ```text
+From: 02 October 2022 - To: 03 October 2022
+
+Total Time: 1 hr 16 mins
+
 Markdown        25 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
 HTML            21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
 Other           21 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
