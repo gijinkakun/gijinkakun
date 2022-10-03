@@ -1,13 +1,15 @@
-name: todoist-stats
+name: Todoist Readme
 
 on:
-  schedule:
-    - cron: '30 16 * * *'
   workflow_dispatch:
+  schedule: # Run workflow automatically
+    # This will make it run every hour
+    - cron: "0 * * * *"
+    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
 jobs:
   update-readme:
-    name: Update Readme with Todoist Stats
+    name: Update todoist stats
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
