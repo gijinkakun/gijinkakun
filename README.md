@@ -77,8 +77,8 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 <br>
 
-<!-- Update Readme with Todoist Stats:START -->
-<!-- Update Readme with Todoist Stats:END -->
+<!-- <!-- TODO-IST::START -->
+<!-- <!-- TODO-IST::END -->
 
 </details>
 
