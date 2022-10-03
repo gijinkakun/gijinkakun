@@ -13,12 +13,12 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "Updated Wakatime / Dev Metrics"
+          COMMIT_MESSAGE: "Updated dev metrics"
           COMMIT_USERNAME: "gijinkakun"
           COMMIT_EMAIL: "gijinkakun@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GIJINKAKUN_TOKEN }}
-          USERNAME: gijinkakun # optional, it will automatically use the username of the owner of the repository who's executing the workflow.
+          USERNAME: gijinkakun
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_PROFILE_VIEWS: "False"
