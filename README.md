@@ -48,7 +48,8 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 <br>
   
-<!-- Update Readme with Github Recent Activity Stats:START --><!-- Update Readme with Github Recent Activity Stats:END -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
   
 </details>
 
