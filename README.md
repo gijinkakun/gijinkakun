@@ -8,17 +8,25 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 
 ---
 
+### Currently Reading:
+
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
+---
+
 ### Facts About Me:
 
-- 🔭 I’m currently working on [A single page portfolio using HTML, CSS, and JavaScript.](https://github.com/gijinkakun/single-page-site)
-- 🌱 I’m currently learning React.js, Next.js, and Typescript.
-- 👨‍💻 All of my projects are available here [https://github.com/gijinkakun/](https://github.com/gijinkakun/)
-- 💬 Ask me about SASS, JavaScript, Adobe products, HTML, CSS, and general Web Development.
-- 📫 How to reach me Gijinkakun@gmail.com, or send me a DM on [Twitter](https://twitter.com/gijinkakun)
+- I’m currently working on [A single page portfolio using HTML, CSS, and JavaScript.](https://github.com/gijinkakun/single-page-site)
+- I’m currently learning React.js, Next.js, and Typescript.
+- All of my projects are available here [https://github.com/gijinkakun/](https://github.com/gijinkakun/)
+- Ask me about SASS, JavaScript, Adobe products, HTML, CSS, and general Web Development.
+- How to reach me Gijinkakun@gmail.com, or send me a DM on [Twitter](https://twitter.com/gijinkakun)
 
 ---
 
 ### My Hobbies:
+
 - Solve programming problems.
 - Watch anime and TV shows.
 - Read some manga.
@@ -47,6 +55,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 ---
 
 ### Some Of My Stats:
+
 <details>
 <summary>:zap: Recent GitHub Activity</summary>
   
@@ -91,6 +100,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 ---
 
 ### Connect With Me:
+
 <a href="https://codepen.io/gijinkakun" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gijinkakun" width="22px"></a>
 <a href="https://twitter.com/gijinkakun" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gijinkakun" width="22px"></a>
 <a href="https://www.linkedin.com/in/gijinkakun"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Gijinkakun's LinkedIN" width="22px"></a>
