@@ -1,9 +1,9 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # for manual workflow trigger
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # runs at every 12AM UTC
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
@@ -14,8 +14,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS: ░▒▓█
           TIME_RANGE: all_time
           SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          COMMIT_MESSAGE: Updated to Waka Time	
+          COMMIT_MESSAGE: Update Wakapi stats
+          BLOCKS: "⬜🟨🟩"
+          	
