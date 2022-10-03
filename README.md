@@ -1,17 +1,15 @@
-<div style="background: #fafafa; border: 1px solid #cccccc"; padding:16px; width:80%;>
-
-# Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+# :wave: Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
 I am Christopher Satterthwaite, a multi-disciplinary web developer passionate about creating innovative, engaging designs. My other passions are animation, writing, and reading. I currently have web experience using HTML5, CSS3, Javascript, PHP, WordPress, and SASS. Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my whole work experience, education, and certification.
 
 
-### Currently Reading:
+### :books: Currently Reading:
 
 <!-- GOODREADS-LIST:START -->
 [**The Umbrella Academy, Vol. 1:  Apocalypse Suite**](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
 <!-- GOODREADS-LIST:END -->
 
-### Facts About Me:
+### :spiral_notepad: Facts About Me:
 
 - I’m currently working on [A single page portfolio](https://github.com/gijinkakun/single-page-site) site that can be hosted on Github pages.
 - I’m currently learning React.js, Next.js, and Typescript.
@@ -21,7 +19,7 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 - When I have free time, I read graphic novels, manga, and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/user/show/156742507-christopher) to see the book I have read.
 
 
-### Tools I Use:
+### :toolbox: Tools I Use:
 
 [<img alt="vscodet" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
 [<img alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
@@ -32,7 +30,7 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 [<img alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://github.com/)
 
 
-### Languages I Use:
+### :computer: Languages I Use:
 
 [<img alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img alt="css3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -43,15 +41,15 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 [<img alt="php" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>](https://www.php.net/)
 
 
-### Latest Blog Posts:
+### :pen: Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 
-### Some Of My Stats:
+### :chart_with_upwards_trend: Some Of My Stats:
 
 <details>
-<summary>:date: Recent GitHub Activity</summary>
+<summary>:bar_chart: Recent GitHub Activity</summary>
 
 <br>
   
@@ -64,7 +62,7 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 </details>
 
 <details>
-<summary>:chart_with_upwards_trend: GitHub Stats</summary>
+<summary>GitHub Stats</summary>
 
 <br>
 
@@ -91,7 +89,7 @@ Other           21 mins         █████▒░░░░░░░░░░
 </details>
 
 <details>
-<summary>:date: Todoist</summary>
+<summary>My Todoist Stats</summary>
 
 <br>
 
@@ -105,7 +103,7 @@ Other           21 mins         █████▒░░░░░░░░░░
 </details>
 
 <details>	
-<summary>:computer: Things I Use to Get Stuff Done</summary>
+<summary>Things I Use to Get Work Done</summary>
 
 <br>
   
@@ -126,6 +124,4 @@ Other           21 mins         █████▒░░░░░░░░░░
 [<img alt="linkedin" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>](https://www.linkedin.com/in/gijinkakun)
 
 
-Loved my work? Please consider [buying me a coffee](https://paypal.me/gijinkakun?country.x=CA&locale.x=en_US) to help :).
-
-I'm</div>
+Loved my work? Please consider [buying me a coffe :coffee:](https://paypal.me/gijinkakun?country.x=CA&locale.x=en_US) to help :).
