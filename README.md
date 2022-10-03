@@ -11,8 +11,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 ### Currently Reading:
 
 <!-- GOODREADS-LIST:START -->
-
-- [The Umbrella Academy, Vol. 1: Apocalypse Suite](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
+- [The Umbrella Academy, Vol. 1:  Apocalypse Suite](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
 <!-- GOODREADS-LIST:END -->
 
 ---
