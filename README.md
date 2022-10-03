@@ -63,7 +63,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 ### Some Of My Stats:
 
 <details>
-<summary>:zap: Recent GitHub Activity</summary>
+<summary>:date: Recent GitHub Activity</summary>
 
 <br>
   
@@ -74,7 +74,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 </details>
 
 <details>
-<summary>:zap: GitHub Stats</summary>
+<summary>:chart_with_upwards_trend: GitHub Stats</summary>
 
 <br>
 
@@ -98,22 +98,8 @@ Other           21 mins         █████▒░░░░░░░░░░
 
 </details>
 
-<details>	
-<summary>⚙️ Things I Use to Get Stuff Done</summary>
-
-<br>
-  
-- **OS:** MAC OS
-- **Laptop:** 2019 Mac Book Pro.
-- **Browser:** Chrome Web Browser.
-- **Code Editor:** VSCode - The best editor out there.
-- **To Stay Updated:** [Twitter](https://twitter.com/gijinkakun) or on [Linkedin](https://www.linkedin.com/in/gijinkakun).
-- ⚛️ Checkout My VSCode Configrations [here](https://gist.github.com/gijinkakun/d2cdafcc8205fc6f9004fe429fb1d545)
-  
-</details>
-
 <details>
-<summary>:zap: Todoist</summary>
+<summary>:date: Todoist</summary>
 
 <br>
 
@@ -124,6 +110,20 @@ Other           21 mins         █████▒░░░░░░░░░░
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
+</details>
+
+<details>	
+<summary>:computer: Things I Use to Get Stuff Done</summary>
+
+<br>
+  
+- **OS:** MAC OS
+- **Laptop:** 2019 Mac Book Pro.
+- **Browser:** Chrome Web Browser.
+- **Code Editor:** VSCode - The best editor out there.
+- **To Stay Updated:** [Twitter](https://twitter.com/gijinkakun) or on [Linkedin](https://www.linkedin.com/in/gijinkakun).
+- ⚛️ Checkout My VSCode Configrations [here](https://gist.github.com/gijinkakun/d2cdafcc8205fc6f9004fe429fb1d545)
+  
 </details>
 
 ---
