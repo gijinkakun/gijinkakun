@@ -1,17 +1,18 @@
 # Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
-I'm Christopher, a Web Developer who is passionate about creating engaging UI and interactive experiences. I'm also an animator and in my spare time I like to write tutorials on web development.
+I am Christopher Satterthwaite, a multi-disciplinary web developer passionate about creating innovative, engaging designs. My other passions are animation, writing, and reading.
 
-I currently have web experiences using HTML5, CSS3, Javascript, PHP, Wordpress, and SASS.
+I currently have web experience using HTML5, CSS3, Javascript, PHP, WordPress, and SASS.
 
-Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my full work experience, education and certification.
+Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my whole work experience, education, and certification.
 
 ---
 
 ### Currently Reading:
 
 <!-- GOODREADS-LIST:START -->
-- [The Umbrella Academy, Vol. 1:  Apocalypse Suite](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
+
+- [The Umbrella Academy, Vol. 1: Apocalypse Suite](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
 <!-- GOODREADS-LIST:END -->
 
 ---
@@ -31,7 +32,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 - Solve programming problems.
 - Watch anime and TV shows.
 - Read some manga.
-- Play videogames.
+- Playing videogames.
 - etc...
 
 ---
@@ -115,5 +116,5 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 
 ---
 
-A problem can be solved in a 100 different ways and There's always an easier way to solve a problem. 
+A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.
 You miss 100% of the shots you don't take.
