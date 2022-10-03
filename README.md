@@ -18,21 +18,12 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 
 ### Facts About Me:
 
-- I’m currently working on [A single page portfolio using HTML, CSS, and JavaScript.](https://github.com/gijinkakun/single-page-site)
+- I’m currently working on [A single page portfolio](https://github.com/gijinkakun/single-page-site) site that can be hosted on Github pages.
 - I’m currently learning React.js, Next.js, and Typescript.
-- All of my projects are available here [https://github.com/gijinkakun/](https://github.com/gijinkakun/)
+- All of my projects are available here on [Github](https://github.com/gijinkakun/).
 - Ask me about SASS, JavaScript, Adobe products, HTML, CSS, and general Web Development.
-- How to reach me Gijinkakun@gmail.com, or send me a DM on [Twitter](https://twitter.com/gijinkakun)
-
----
-
-### My Hobbies:
-
-- Solve programming problems.
-- Watch anime and TV shows.
-- Read some manga.
-- Playing videogames.
-- etc...
+- Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gijinkakun).
+- When I have free time, I read graphic novels, manga, and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/user/show/156742507-christopher) to see the book I have read.
 
 ---
 
