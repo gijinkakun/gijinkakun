@@ -1,12 +1,7 @@
 # Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
-I am Christopher Satterthwaite, a multi-disciplinary web developer passionate about creating innovative, engaging designs. My other passions are animation, writing, and reading.
+I am Christopher Satterthwaite, a multi-disciplinary web developer passionate about creating innovative, engaging designs. My other passions are animation, writing, and reading. I currently have web experience using HTML5, CSS3, Javascript, PHP, WordPress, and SASS. Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my whole work experience, education, and certification.
 
-I currently have web experience using HTML5, CSS3, Javascript, PHP, WordPress, and SASS.
-
-Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my whole work experience, education, and certification.
-
----
 
 ### Currently Reading:
 
@@ -14,7 +9,6 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 [**The Umbrella Academy, Vol. 1:  Apocalypse Suite**](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
 <!-- Updates to Goodreads:END -->
 
----
 
 ### Facts About Me:
 
@@ -25,7 +19,6 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 - Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gijinkakun).
 - When I have free time, I read graphic novels, manga, and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/user/show/156742507-christopher) to see the book I have read.
 
----
 
 ### Tools I Use:
 
@@ -37,7 +30,6 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 [<img alt="illustrator" width="40px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />](https://www.adobe.com/)
 [<img alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://github.com/)
 
----
 
 ### Languages I Use:
 
@@ -49,7 +41,6 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 [<img alt="google dev" width="40px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" />](https://developers.google.com/)
 [<img alt="php" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>](https://www.php.net/)
 
----
 
 ### Some Of My Stats:
 
@@ -122,7 +113,6 @@ Other           21 mins         █████▒░░░░░░░░░░
   
 </details>
 
----
 
 ### Connect With Me:
 
@@ -130,7 +120,5 @@ Other           21 mins         █████▒░░░░░░░░░░
 [<img alt="twitter" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>](https://twitter.com/gijinkakun)
 [<img alt="linkedin" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>](https://www.linkedin.com/in/gijinkakun)
 
----
 
 Loved my work? Please consider [buying me a coffee](https://paypal.me/gijinkakun?country.x=CA&locale.x=en_US) to help :).
-
