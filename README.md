@@ -8,7 +8,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 
 ---
 
-### Facts About Me
+### Facts About Me:
 
 - 🔭 I’m currently working on [A single page portfolio using HTML, CSS, and JavaScript.](https://github.com/gijinkakun/single-page-site)
 
@@ -20,6 +20,15 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 - 💬 Ask me about **SASS, JavaScript, Adobe products, HTML, CSS, and general Web Development.**
 
 - 📫 How to reach me **Gijinkakun@gmail.com**, or send me a DM on [Twitter](https://twitter.com/gijinkakun)
+
+---
+
+### My Hobbies:
+- Solve programming problems.
+- Watch anime and TV shows.
+- Read some manga.
+- Play videogames.
+- etc...
 
 ---
 
@@ -86,8 +95,13 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 
 ---
 
-## Connect With Me:
+### Connect With Me:
 <a href="https://codepen.io/gijinkakun" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gijinkakun" width="22px"></a>
 <a href="https://twitter.com/gijinkakun" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gijinkakun" width="22px"></a>
 <a href="https://www.linkedin.com/in/gijinkakun"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Gijinkakun's LinkedIN" width="22px"></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=gijinkakun.gijinkakun)
+
+---
+
+A problem can be solved in a 100 different ways and There's always an easier way to solve a problem. 
+You miss 100% of the shots you don't take.
