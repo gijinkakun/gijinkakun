@@ -5,9 +5,7 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 ### Currently Reading:
 
-<!-- Updates to Goodreads Currently Reading:START -->
-[**The Umbrella Academy, Vol. 1:  Apocalypse Suite**](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
-<!-- Updates to Goodreads Currently Reading:END -->
+<!-- GOODREADS-LIST:START --><!-- GOODREADS-LIST:END -->
 
 ### Facts About Me:
 
@@ -48,8 +46,7 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 <br>
   
-<!-- Update Readme with Github Recent Activity Stats:START -->
-<!-- Update Readme with Github Recent Activity Stats:END -->
+<!-- Update Readme with Github Recent Activity Stats:START --><!-- Update Readme with Github Recent Activity Stats:END -->
   
 </details>
 
@@ -66,8 +63,7 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 ![Gijinkakun's Trophies](https://github-profile-trophy.vercel.app/?username=gijinkakun)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -78,8 +74,7 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 <br>
 
-<!-- <!-- TODO-IST::START -->
-<!-- <!-- TODO-IST::END -->
+<!-- <!-- TODO-IST::START --><!-- <!-- TODO-IST::END -->
 
 </details>
 
