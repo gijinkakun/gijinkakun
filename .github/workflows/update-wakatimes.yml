@@ -15,8 +15,7 @@ jobs:
           COMMIT_MESSAGE: Update Wakapi stats
           TIME_RANGE: all_time
           SHOW_TIME: true
-
-  SHOW_PROJECTS: "False"
+          SHOW_PROJECTS: "False"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE : "True"
           SHOW_TIMEZONE: "False"
