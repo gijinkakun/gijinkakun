@@ -13,5 +13,5 @@ jobs:
         with:
           goodreads_user_id: "156742507"
           shelf: "currently-reading"
-          template: "**[$title]**($url) by $author (⭐️$average_rating)"
+          template: "[**$title**]($url) by $author (⭐️$average_rating)"
           comment_tag_name: "Updates to Goodreads"
