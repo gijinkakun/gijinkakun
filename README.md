@@ -70,6 +70,13 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 ![Gijinkakun's Trophies](https://github-profile-trophy.vercel.app/?username=gijinkakun)
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown        25 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
+HTML            21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
+Other           21 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
+```
+
 <!--END_SECTION:waka-->
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
