@@ -76,7 +76,8 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 <br>
 
-<!-- <!-- TODO-IST::START --><!-- <!-- TODO-IST::END -->
+<!-- TODO-IST::START -->
+<!-- TODO-IST::END -->
 
 </details>
 
