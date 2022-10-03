@@ -112,6 +112,16 @@ Other           21 mins         █████▒░░░░░░░░░░
   
 </details>
 
+<details>
+<summary>:zap: Todoist</summary>
+
+<br>
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
+</details>
+
 ---
 
 ### Connect With Me:
