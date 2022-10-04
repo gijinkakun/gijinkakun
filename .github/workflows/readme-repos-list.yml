@@ -9,6 +9,6 @@ jobs:
       - name: Run readme-repos-list
         uses: koj-co/readme-repos-list@master
         with:
-          token: ${{ secrets. GIJINKAKUN_TOKEN }}
-          query: "gijinkakun in:readme"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          query: "Octocat in:readme"
           max: 10
