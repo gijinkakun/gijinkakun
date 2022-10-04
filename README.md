@@ -54,8 +54,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 #### :pen: &nbsp;&nbsp; Latest Blog Posts:
 
 <ul>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href='https://dev.to/gijinkakun/making-a-card-with-bem-108p'>Tue Oct 04 2022 - Making a Card With BEM</a></li><!-- BLOG-POST-LIST:END -->
 </ul>
   
 <br>
