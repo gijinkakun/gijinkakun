@@ -1,6 +1,10 @@
 # :wave: Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
-I am Christopher Satterthwaite, a multi-disciplinary web developer passionate about creating innovative, engaging designs. My other passions are animation, writing, and reading. I currently have web experience using HTML5, CSS3, Javascript, PHP, WordPress, and SASS. Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my whole work experience, education, and certification.
+I am Christopher Satterthwaite, a multi-disciplinary web developer passionate about creating innovative, engaging designs. My other passions are animation, writing, and reading. 
+
+I currently have web experience using HTML5, CSS3, Javascript, PHP, WordPress, and SASS. 
+
+Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my whole work experience, education, and certification.
 
 <br>
 
@@ -56,7 +60,7 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 #### :chart_with_upwards_trend: &nbsp;&nbsp;Some Of My Stats:
 
 <details>
-<summary>:bar_chart: Recent GitHub Activity</summary>
+<summary>Recent GitHub Activity</summary>
 
 <br>
   
@@ -132,5 +136,7 @@ Other           21 mins         █████▒░░░░░░░░░░
 [<img alt="linkedin" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>](https://www.linkedin.com/in/gijinkakun)
 
 <br>
+
+## Show Your Support?
 
 Loved my work? Please consider [buying me a coffe :coffee:](https://paypal.me/gijinkakun?country.x=CA&locale.x=en_US) to help out :hugs:.
