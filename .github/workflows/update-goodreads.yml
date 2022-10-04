@@ -1,4 +1,4 @@
-name: Latest book list from a goodreads
+name: Latest Book Reading List From Goodreads
 on:
   schedule:
     - cron: '0 0 * * *'
