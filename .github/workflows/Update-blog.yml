@@ -1,8 +1,8 @@
-name: Update Latest Blog
+name: Latest Blogs From dev.to
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 0 * * *' # runs at every 12AM UTC
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
