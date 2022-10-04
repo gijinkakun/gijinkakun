@@ -1,14 +1,10 @@
 # :wave: Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
-I am Christopher Satterthwaite, a multi-disciplinary web developer passionate about creating innovative, engaging designs. My other passions are animation, writing, and reading. 
-
-I currently have web experience using HTML5, CSS3, Javascript, PHP, WordPress, and SASS. 
-
-Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my whole work experience, education, and certification.
+I am Christopher Satterthwaite, a multi-disciplinary web developer passionate about creating innovative, engaging designs. My other passions are animation, writing, and reading. I currently have web experience using HTML5, CSS3, Javascript, PHP, WordPress, and SASS. Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my whole work experience, education, and certification.
 
 <br>
 
-#### :books:&nbsp;&nbsp;Currently Reading:
+## :books:&nbsp;&nbsp;Currently Reading:
 
 <!-- GOODREADS-LIST:START -->
 [**The Umbrella Academy, Vol. 1:  Apocalypse Suite**](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
@@ -16,7 +12,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 
 <br>
 
-#### :spiral_notepad: &nbsp;&nbsp;Facts About Me:
+## :spiral_notepad: Facts About Me:
 
 - I’m currently working on [A single page portfolio](https://github.com/gijinkakun/single-page-site) site that can be hosted on Github pages.
 - I’m currently learning React.js, Next.js, and Typescript.
@@ -27,7 +23,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 
 <br>
 
-#### :toolbox: &nbsp;&nbsp; Tools I Use:
+## :toolbox: Tools I Use:
 
 [<img alt="vscodet" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
 [<img alt="figma" width="24px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
@@ -39,7 +35,7 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 
 <br>
 
-#### :computer: &nbsp;&nbsp; Languages I Use:
+## :computer: Languages I Use:
 
 [<img alt="html5" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img alt="css3" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -50,16 +46,8 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 [<img alt="php" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>](https://www.php.net/)
 
 <br>
-
-#### :pen: &nbsp;&nbsp; Latest Blog Posts:
-
-<ul>
-<!-- BLOG-POST-LIST:START --><li><a href='https://dev.to/gijinkakun/making-a-card-with-bem-108p'>Tue Oct 04 2022 - Making a Card With BEM</a></li><!-- BLOG-POST-LIST:END -->
-</ul>
-  
-<br>
-
-#### :chart_with_upwards_trend: &nbsp;&nbsp;Some Of My Stats:
+ 
+## :chart_with_upwards_trend: &nbsp;&nbsp;Some Of My Stats:
 
 <details>
 <summary>Recent GitHub Activity</summary>
@@ -131,7 +119,15 @@ Other           21 mins         █████▒░░░░░░░░░░
 
 <br>
 
-#### :envelope: &nbsp;&nbsp;Connect With Me:
+## :pen: Latest Blog Posts:
+
+<ul>
+<!-- BLOG-POST-LIST:START --><li><a href='https://dev.to/gijinkakun/making-a-card-with-bem-108p'>Tue Oct 04 2022 - Making a Card With BEM</a></li><!-- BLOG-POST-LIST:END -->
+</ul>
+
+<br>
+
+## :envelope: Connect With Me:
 
 [<img alt="codepen" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"/>](https://codepen.io/gijinkakun)
 [<img alt="twitter" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>](https://twitter.com/gijinkakun)
