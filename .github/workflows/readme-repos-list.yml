@@ -10,5 +10,5 @@ jobs:
         uses: koj-co/readme-repos-list@master
         with:
           token: ${{ secrets. GIJINKAKUN_TOKEN }}
-          query: "Octocat in:readme"
+          query: "gijinkakun in:readme"
           max: 10
