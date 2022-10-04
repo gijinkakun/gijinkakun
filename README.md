@@ -12,8 +12,8 @@ Please find me on Linkedin for a more detailed description of my whole work expe
 
 ## :books: Currently Reading:
 
-<!-- Updated Goodreads Current Reading List:START -->
-<!-- Updated Goodreads Current Reading List:END -->I 
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 <br>
 
