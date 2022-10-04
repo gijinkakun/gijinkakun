@@ -15,6 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/gijinkakun"
-          template: "$date [$title]($url) $newline $description"
-          description_max_length: "140"
+          template: "[$date &#183; $title]($url)"
           date_format: "UTC:ddd mmm dd yyyy"
