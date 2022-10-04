@@ -52,8 +52,12 @@ Please find me on [Linkedin](https://www.linkedin.com/in/gijinkakun) for a more 
 <br>
 
 #### :pen: &nbsp;&nbsp; Latest Blog Posts:
-<!-- BLOG-POST-LIST:START --><a href='https://dev.to/gijinkakun/making-a-card-with-bem-108p'>Tue Oct 04 2022 - Making a Card With BEM</a><!-- BLOG-POST-LIST:END -->
 
+<ul>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</ul>
+  
 <br>
 
 #### :chart_with_upwards_trend: &nbsp;&nbsp;Some Of My Stats:
