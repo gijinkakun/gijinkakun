@@ -4,7 +4,7 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 <br>
 
-### :books: Currently Reading:
+#### :books:&nbsp;&nbsp;Currently Reading:
 
 <!-- GOODREADS-LIST:START -->
 [**The Umbrella Academy, Vol. 1:  Apocalypse Suite**](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
@@ -12,7 +12,7 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 <br>
 
-### :spiral_notepad: Facts About Me:
+#### :spiral_notepad: &nbsp;&nbsp;Facts About Me:
 
 - I’m currently working on [A single page portfolio](https://github.com/gijinkakun/single-page-site) site that can be hosted on Github pages.
 - I’m currently learning React.js, Next.js, and Typescript.
@@ -23,37 +23,37 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 <br>
 
-### :toolbox: Tools I Use:
+#### :toolbox: &nbsp;&nbsp; Tools I Use:
 
-[<img alt="vscodet" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
-[<img alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
-[<img alt="sketchapp" width="40px" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" />](https://www.sketch.com/)
-[<img alt="blender" width="40px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />](https://blendjet.su/)
-[<img alt="photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />](https://www.adobe.com/)
-[<img alt="illustrator" width="40px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />](https://www.adobe.com/)
-[<img alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://github.com/)
-
-<br>
-
-### :computer: Languages I Use:
-
-[<img alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[<img alt="css3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img alt="sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>](https://sass-lang.com/)
-[<img alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>](https://www.javascript.com/)
-[<img alt="react" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>](https://reactjs.org/)
-[<img alt="google dev" width="40px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" />](https://developers.google.com/)
-[<img alt="php" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>](https://www.php.net/)
+[<img alt="vscodet" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
+[<img alt="figma" width="24px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
+[<img alt="sketchapp" width="24px" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" />](https://www.sketch.com/)
+[<img alt="blender" width="24px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />](https://blendjet.su/)
+[<img alt="photoshop" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />](https://www.adobe.com/)
+[<img alt="illustrator" width="24px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />](https://www.adobe.com/)
+[<img alt="git" width="24px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://github.com/)
 
 <br>
 
-### :pen: Latest Blog Posts:
+#### :computer: &nbsp;&nbsp; Languages I Use:
+
+[<img alt="html5" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[<img alt="css3" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt="sass" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>](https://sass-lang.com/)
+[<img alt="javascript" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>](https://www.javascript.com/)
+[<img alt="react" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>](https://reactjs.org/)
+[<img alt="google dev" width="25px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" />](https://developers.google.com/)
+[<img alt="php" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>](https://www.php.net/)
+
+<br>
+
+#### :pen: &nbsp;&nbsp; Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
-### :chart_with_upwards_trend: Some Of My Stats:
+#### :chart_with_upwards_trend: &nbsp;&nbsp;Some Of My Stats:
 
 <details>
 <summary>:bar_chart: Recent GitHub Activity</summary>
@@ -125,11 +125,11 @@ Other           21 mins         █████▒░░░░░░░░░░
 
 <br>
 
-### Connect With Me:
+#### :envelope: &nbsp;&nbsp;Connect With Me:
 
-[<img alt="codepen" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"/>](https://codepen.io/gijinkakun)
-[<img alt="twitter" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>](https://twitter.com/gijinkakun)
-[<img alt="linkedin" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>](https://www.linkedin.com/in/gijinkakun)
+[<img alt="codepen" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"/>](https://codepen.io/gijinkakun)
+[<img alt="twitter" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>](https://twitter.com/gijinkakun)
+[<img alt="linkedin" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>](https://www.linkedin.com/in/gijinkakun)
 
 <br>
 
