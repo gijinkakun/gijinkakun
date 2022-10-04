@@ -16,3 +16,5 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/gijinkakun"
           template: "$date [$title]($url) $newline $description"
+          description_max_length: "140"
+          date_format: "UTC:ddd mmm dd yyyy"
