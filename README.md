@@ -13,6 +13,7 @@ Please find me on Linkedin for a more detailed description of my whole work expe
 ## :books: Currently Reading:
 
 <!-- GOODREADS-LIST:START -->
+[**The Umbrella Academy, Vol. 1:  Apocalypse Suite**](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
 <!-- GOODREADS-LIST:END -->
 
 <br>
