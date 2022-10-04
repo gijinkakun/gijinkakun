@@ -4,11 +4,18 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 <br>
 
-## :books:&nbsp;&nbsp;Currently Reading:
+## :books: Currently Reading:
 
 <!-- GOODREADS-LIST:START -->
 [**The Umbrella Academy, Vol. 1:  Apocalypse Suite**](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
 <!-- GOODREADS-LIST:END -->
+
+<br>
+
+## :notes: Currently Listing To:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jbhl2wbomiia7zrzlvw4rbnmvm&cover_image=true&theme=novatorem&show_offline=false&bar_color=ffd500&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31jbhl2wbomiia7zrzlvw4rbnmvm&redirect=true)
+
 
 <br>
 
