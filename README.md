@@ -74,14 +74,15 @@ I am Christopher Satterthwaite, a multi-disciplinary web developer passionate ab
 
 <br>
 
-![Gijinkakun's Stats](https://github-readme-stats.vercel.app/api?username=gijinkakun&show_icons=true&count_private=true&theme=none&hide_border=false&hide=issues,contribs&bg_color=00000000)
+![Gijinkakun's Stats](https://github-readme-stats.vercel.app/api?username=gijinkakun&show_icons=true&count_private=true&theme=none&hide_border=false&hide=issues,contribs&bg_color=fafafa)
 
-![Gijinkakkuns's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gijinkakun&layout=compact&hide_border=false&theme=none&bg_color=00000000)
+![Gijinkakuns's Streaks](https://github-readme-streak-stats.herokuapp.com?user=gijinkakun&theme=none&hide_border=false&background=fafafa)
 
-![Gijinkakuns's Streaks](https://github-readme-streak-stats.herokuapp.com?user=gijinkakun&theme=none&hide_border=false&background=FFFFFF00)
+![Gijinkakun's Trophies](https://github-profile-trophy.vercel.app/?username=gijinkakun&margin-w=15&theme=oldie)
+ 
+![Gijinkakkuns's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gijinkakun&hide_border=false&theme=none&bg_color=fafafa)
 
-![Gijinkakun's Trophies](https://github-profile-trophy.vercel.app/?username=gijinkakun)
-
+ 
 <!--START_SECTION:waka-->
 
 ```text
