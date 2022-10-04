@@ -18,7 +18,7 @@ Please find me on Linkedin for a more detailed description of my whole work expe
 
 <br>
 
-## :notes: Currently Listing To:
+## :notes: Currently Listening To:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jbhl2wbomiia7zrzlvw4rbnmvm&cover_image=true&theme=novatorem&show_offline=false&bar_color=ffd500&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31jbhl2wbomiia7zrzlvw4rbnmvm&redirect=true)
 
