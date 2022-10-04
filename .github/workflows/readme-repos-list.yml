@@ -1,7 +1,12 @@
 name: README Repos List
+
 on:
-  schedule:
-    - cron: "0 0 * * 1"
+  schedule: # Run workflow automatically
+    # This will make it run every hour
+    - cron: "0 * * * *"
+    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch:
+
 jobs:
   list:
     runs-on: ubuntu-latest
@@ -9,6 +14,6 @@ jobs:
       - name: Run readme-repos-list
         uses: koj-co/readme-repos-list@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets. GIJINKAKUN_TOKEN }}
           query: "Octocat in:readme"
           max: 10
