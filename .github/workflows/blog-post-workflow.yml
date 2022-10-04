@@ -15,5 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/gijinkakun"
-          template: "[$date &#183; $title]($url)"
+          template: "<a href='$url'>$date - $title</a>"
           date_format: "UTC:ddd mmm dd yyyy"
