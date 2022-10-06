@@ -1,12 +1,6 @@
 # :wave: Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
-Hello, I am Christopher, a multi-disciplinary web developer with a passion for creating innovative, engaging designs over the last 20 years.
-
-I started developing websites in 1999 with basic HTML and CSS, making simple web pages. I started expanding my knowledge over time into using SASS, PHP, and JavaScript for web development, which led me to specialize in developing WordPress Themes and Plugins.
-
-Some of my other passions are 3D animation, writing tutorials, and reading graphic novels or manga.
-
-Please find me on Linkedin for a more detailed description of my whole work experience, education, and certification.
+Hello, I am Christopher, a multi-disciplinary web developer with a passion for creating innovative, engaging designs over the last 20 years. I started developing websites in 1999 with basic HTML and CSS, making simple web pages. I started expanding my knowledge over time into using SASS, PHP, and JavaScript for web development, which led me to specialize in developing WordPress Themes and Plugins. Some of my other passions are 3D animation, writing tutorials, and reading graphic novels or manga. Please find me on  [LinkedIn](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my whole work experience, education, and certification.
 
 <br>
 
@@ -80,15 +74,18 @@ Please find me on Linkedin for a more detailed description of my whole work expe
 
 <br>
 
-![Gijinkakun's Stats](https://github-readme-stats.vercel.app/api?username=gijinkakun&show_icons=true&count_private=true&theme=none&hide_border=false&hide=issues,contribs&bg_color=fafafa)
+:chart_with_upwards_trend: **Github Basic Stats** 
+ 
+![Gijinkakun's Stats](https://github-readme-stats.vercel.app/api?username=gijinkakun&show_icons=true&count_private=true&theme=none&hide_border=false&hide=issues,contribs&bg_color=fafafa&card_width=500)
 
 ![Gijinkakuns's Streaks](https://github-readme-streak-stats.herokuapp.com?user=gijinkakun&theme=none&hide_border=false&background=fafafa)
 
-![Gijinkakun's Trophies](https://github-profile-trophy.vercel.app/?username=gijinkakun&margin-w=15&theme=oldie)
- 
-![Gijinkakkuns's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gijinkakun&hide_border=false&theme=none&bg_color=fafafa)
+![Gijinkakkuns's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gijinkakun&hide_border=false&theme=none&bg_color=fafafa&card_width=500)
 
+:trophy: **Github Trophies** 
  
+![Gijinkakun's Trophies](https://github-profile-trophy.vercel.app/?username=gijinkakun&margin-w=15&theme=oldie&column=4&margin-w=20&margin-h=20)
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
