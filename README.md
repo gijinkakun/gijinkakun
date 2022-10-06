@@ -90,15 +90,11 @@ Please find me on Linkedin for a more detailed description of my whole work expe
 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2042%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1309-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 215 Contributions in the Year 2022
+> 🏆 216 Contributions in the Year 2022
  > 
-> 📦 423 Bytes Used in GitHub's Storage 
+> 📦 447 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -118,10 +114,10 @@ Please find me on Linkedin for a more detailed description of my whole work expe
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       83 commits     █████████████░░░░░░░░░░░░   54.25% 
+Monday       82 commits     █████████████░░░░░░░░░░░░   53.59% 
 Tuesday      30 commits     █████░░░░░░░░░░░░░░░░░░░░   19.61% 
 Wednesday    26 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.99% 
-Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
+Thursday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
 Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
@@ -132,8 +128,6 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Vancouver
-
 💬 Programming Languages: 
 TypeScript               6 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   34.12% 
 SCSS                     3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
@@ -143,6 +137,12 @@ Other                    1 hr 51 mins        ██░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  19 hrs 58 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+single-page-site         15 hrs 5 mins       ███████████████████░░░░░░   75.61% 
+testing                  4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   22.2% 
+gijinkakun               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
+starter-project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 ```
 
@@ -160,7 +160,7 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/gijinkakun/gijinkakun/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/10/2022 15:47:08 UTC
+ Last Updated on 06/10/2022 16:55:40 UTC
 <!--END_SECTION:waka-->
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
