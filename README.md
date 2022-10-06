@@ -147,9 +147,9 @@ Other           1 hr 51 mins    ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <br>
 
-## Latest Tweets:
+## :bird: Latest Tweets:
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gijinkakun&layout=wide)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gijinkakun&layout=wide&show_border=off)](https://github.com/gazf/github-readme-twitter)
 
 <br>
 
