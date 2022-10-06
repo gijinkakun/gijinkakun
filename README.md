@@ -68,9 +68,9 @@ Please find me on Linkedin for a more detailed description of my whole work expe
 <br>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/gijinkakun/single-page-site/issues/1) in [gijinkakun/single-page-site](https://github.com/gijinkakun/single-page-site)
-2. 🗣 Commented on [#1](https://github.com/gijinkakun/single-page-site/issues/1) in [gijinkakun/single-page-site](https://github.com/gijinkakun/single-page-site)
-3. ❗️ Opened issue [#1](https://github.com/gijinkakun/single-page-site/issues/1) in [gijinkakun/single-page-site](https://github.com/gijinkakun/single-page-site)
+1. 🎉 Merged PR [#4](https://github.com/gijinkakun/gijinkakun.github.io/pull/4) in [gijinkakun/gijinkakun.github.io](https://github.com/gijinkakun/gijinkakun.github.io)
+2. 💪 Opened PR [#4](https://github.com/gijinkakun/gijinkakun.github.io/pull/4) in [gijinkakun/gijinkakun.github.io](https://github.com/gijinkakun/gijinkakun.github.io)
+3. 🎉 Merged PR [#3](https://github.com/gijinkakun/gijinkakun.github.io/pull/3) in [gijinkakun/gijinkakun.github.io](https://github.com/gijinkakun/gijinkakun.github.io)
 <!--END_SECTION:activity-->
   
 </details>
