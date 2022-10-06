@@ -147,6 +147,12 @@ Other           1 hr 51 mins    ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <br>
 
+## Latest Tweets:
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gijinkakun&layout=wide)](https://github.com/gazf/github-readme-twitter)
+
+<br>
+
 ## :envelope: Connect With Me:
 
 [<img alt="codepen" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"/>](https://codepen.io/gijinkakun)
