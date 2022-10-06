@@ -16,7 +16,6 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jbhl2wbomiia7zrzlvw4rbnmvm&cover_image=true&theme=novatorem&show_offline=false&bar_color=ffd500&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31jbhl2wbomiia7zrzlvw4rbnmvm&redirect=true)
 
-
 <br>
 
 ## :spiral_notepad: Facts About Me:
@@ -32,29 +31,41 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 
 ## :toolbox: Tools I Use:
 
-[<img alt="vscodet" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
-[<img alt="figma" width="24px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
-[<img alt="sketchapp" width="24px" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" />](https://www.sketch.com/)
-[<img alt="blender" width="24px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />](https://blendjet.su/)
-[<img alt="photoshop" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />](https://www.adobe.com/)
-[<img alt="illustrator" width="24px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />](https://www.adobe.com/)
-[<img alt="git" width="24px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://github.com/)
+[<img height="32" width="32" align="left" alt="Visual Studio Code" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/visualstudio.svg">](https://code.visualstudio.com/)
+[<img height="32" width="32" align="left" alt="Github" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/github.svg">](https://github.com/)
+[<img height="32" width="32" align="left" alt="Adobe Photoshop" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/adobephotoshop.svg">](https://www.adobe.com/)
+[<img height="32" width="32" align="left" alt="Adobe Illustrator" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/adobeillustrator.svg">](https://www.adobe.com/)
+[<img height="32" width="32" align="left" alt="Autodesk" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/autodesk.svg">](https://www.autodesk.ca/en)
+[<img height="32" width="32" align="left" alt="Blender" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/blender.svg">](https://www.blender.org/)
+[<img height="32" width="32" align="left" alt="Figma" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/figma.svg">](https://www.figma.com/)
+[<img height="32" width="32" align="left" alt="Fire fox" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/firefoxbrowser.svg">](https://www.mozilla.org/en-CA/firefox/new/)
+[<img height="32" width="32" align="left" alt="Google Chrome" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/googlechrome.svg">](https://www.google.com/intl/en_ca/chrome/)
+[<img height="32" width="32" align="left" alt="Microsoft Edge" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/microsoftedge.svg">](https://www.microsoft.com/en-us/edge)
+[<img height="32" width="32" align="left" alt="Mamp" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/mamp.svg">](https://www.mamp.info/en/downloads/)
+[<img height="32" width="32" align="left" alt="Safari" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/safari.svg">](https://www.apple.com/ca/safari/)
+[<img height="32" width="32" align="left" alt="Trello" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/trello.svg">](https://trello.com/)
+[<img height="32" width="32" align="left" alt="Slack" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/slack.svg">](https://slack.com/)
 
+<br>
+<br>
 <br>
 
 ## :computer: Languages I Use:
 
-[<img alt="html5" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[<img alt="css3" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img alt="sass" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>](https://sass-lang.com/)
-[<img alt="javascript" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>](https://www.javascript.com/)
-[<img alt="react" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>](https://reactjs.org/)
-[<img alt="google dev" width="25px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" />](https://developers.google.com/)
-[<img alt="php" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>](https://www.php.net/)
+[<img height="32" width="32" align="left" alt="css3" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/css3.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img height="32" width="32" align="left" alt="html5" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/html5.svg">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[<img height="32" width="32" align="left" alt="javascript" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/javascript.svg">](https://www.javascript.com/)
+[<img height="32" width="32" align="left" alt="sass" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/sass.svg">](https://sass-lang.com/)
+[<img height="32" width="32" align="left" alt="typescript" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/typescript.svg">](https://www.typescriptlang.org/)
+[<img height="32" width="32" align="left" alt="php" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/php.svg">](https://www.php.net/)
+[<img height="32" width="32" align="left" alt="react" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/react.svg">](https://reactjs.org/)
+[<img height="32" width="32" align="left" alt="wordpress" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/wordpress.svg">](https://en-ca.wordpress.org/)
 
 <br>
- 
-## :chart_with_upwards_trend: &nbsp;&nbsp;Some Of My Stats:
+<br>
+<br>
+
+## :chart_with_upwards_trend: Some Of My Stats:
 
 <details>
 <summary>Recent GitHub Activity</summary>
@@ -214,6 +225,7 @@ HTML                     1 repo              ███████████�
 [<img alt="twitter" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>](https://twitter.com/gijinkakun)
 [<img alt="linkedin" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>](https://www.linkedin.com/in/gijinkakun)
 
+<br>
 <br>
 
 ## Show Your Support?
