@@ -92,13 +92,15 @@ Please find me on Linkedin for a more detailed description of my whole work expe
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 October 2022 - To: 05 October 2022
+From: 02 October 2022 - To: 06 October 2022
 
-Total Time: 5 hrs 13 mins
+Total Time: 19 hrs 58 mins
 
-HTML            1 hr 50 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.24 %
-SCSS            1 hr 40 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.09 %
-Other           30 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.64 %
+TypeScript      6 hrs 48 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.12 %
+SCSS            3 hrs 6 mins    ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.54 %
+JSON            3 hrs 5 mins    ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.48 %
+HTML            2 hrs 33 mins   ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.83 %
+Other           1 hr 51 mins    ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.28 %
 ```
 
 <!--END_SECTION:waka-->
