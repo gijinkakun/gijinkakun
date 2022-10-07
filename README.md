@@ -4,7 +4,7 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 
 <br>
 
-## :books: Currently Reading:
+## :books: I am Currently Reading:
 
 <!-- GOODREADS-LIST:START -->
 [**The Umbrella Academy, Vol. 1:  Apocalypse Suite**](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
@@ -12,7 +12,7 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 
 <br>
 
-## :notes: Currently Listening To:
+## :notes: I am Currently Listening To:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jbhl2wbomiia7zrzlvw4rbnmvm&cover_image=true&theme=novatorem&show_offline=false&bar_color=ffd500&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31jbhl2wbomiia7zrzlvw4rbnmvm&redirect=true)
 
@@ -20,7 +20,7 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 
 ## :spiral_notepad: Facts About Me:
 
-- I’m currently working on [A single page portfolio](https://github.com/gijinkakun/single-page-site) site that can be hosted on Github pages.
+- I’m currently working on [A single page portfolio theme](https://github.com/gijinkakun/gijinkakunfolio) that can be hosted on Github pages.
 - I’m currently learning React.js, Next.js, and Typescript.
 - All of my projects are available here on [Github](https://github.com/gijinkakun/).
 - Ask me about SASS, JavaScript, Adobe products, HTML, CSS, and general Web Development.
@@ -29,7 +29,7 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 
 <br>
 
-## :toolbox: Tools I Use:
+## :toolbox: Development Tools I Use:
 
 [<img height="32" width="32" align="left" alt="Visual Studio Code" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/visualstudio.svg">](https://code.visualstudio.com/)
 [<img height="32" width="32" align="left" alt="Github" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/github.svg">](https://github.com/)
@@ -50,7 +50,7 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 <br>
 <br>
 
-## :computer: Languages I Use:
+## :computer: Development Languages I Use:
 
 [<img height="32" width="32" align="left" alt="css3" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/css3.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img height="32" width="32" align="left" alt="html5" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/html5.svg">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
@@ -65,7 +65,7 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 <br>
 <br>
 
-## :chart_with_upwards_trend: Some Of My Stats:
+## :chart_with_upwards_trend: Some Of My Development Stats:
 
 <details>
 <summary>Recent GitHub Activity</summary>
@@ -81,7 +81,7 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 </details>
 
 <details>
-<summary>GitHub Stats</summary>
+<summary>My GitHub Stats</summary>
 
 <br>
 
@@ -190,7 +190,7 @@ HTML                     1 repo              ███████████�
 </details>
 
 <details>	
-<summary>Things I Use to Get Work Done</summary>
+<summary>What I Use As A Developer</summary>
 
 <br>
   
@@ -198,14 +198,13 @@ HTML                     1 repo              ███████████�
 - **Laptop:** 2019 Mac Book Pro.
 - **Browser:** Chrome Web Browser.
 - **Code Editor:** VSCode - The best editor out there.
-- **To Stay Updated:** [Twitter](https://twitter.com/gijinkakun) or on [Linkedin](https://www.linkedin.com/in/gijinkakun).
-- ⚛️ Checkout My VSCode Configrations [here](https://gist.github.com/gijinkakun/d2cdafcc8205fc6f9004fe429fb1d545)
+- **Design:** Photoshop, Illustrator, and Figma.
   
 </details>
 
 <br>
 
-## :pen: Latest Blog Posts:
+## :pen: My Latest Blog Posts:
 
 <ul>
 <!-- BLOG-POST-LIST:START --><li><a href='https://dev.to/gijinkakun/making-a-card-with-bem-108p'>Tue Oct 04 2022 - Making a Card Component With BEM</a></li><!-- BLOG-POST-LIST:END -->
@@ -213,7 +212,7 @@ HTML                     1 repo              ███████████�
 
 <br>
 
-## :bird: Latest Tweets:
+## :bird: My Latest Tweets:
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gijinkakun&layout=wide&show_border=off)](https://github.com/gazf/github-readme-twitter)
 
