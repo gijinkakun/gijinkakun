@@ -31,33 +31,28 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 
 ## Development Tools I Use:
 
-[<img height="32" width="32" align="left" alt="Visual Studio Code" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/visualstudio.svg">](https://code.visualstudio.com/)
-[<img height="32" width="32" align="left" alt="Github" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/github.svg">](https://github.com/)
-[<img height="32" width="32" align="left" alt="Adobe Photoshop" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/adobephotoshop.svg">](https://www.adobe.com/)
-[<img height="32" width="32" align="left" alt="Adobe Illustrator" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/adobeillustrator.svg">](https://www.adobe.com/)
-[<img height="32" width="32" align="left" alt="Autodesk" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/autodesk.svg">](https://www.autodesk.ca/en)
-[<img height="32" width="32" align="left" alt="Blender" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/blender.svg">](https://www.blender.org/)
-[<img height="32" width="32" align="left" alt="Figma" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/figma.svg">](https://www.figma.com/)
-[<img height="32" width="32" align="left" alt="Fire fox" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/firefoxbrowser.svg">](https://www.mozilla.org/en-CA/firefox/new/)
-[<img height="32" width="32" align="left" alt="Google Chrome" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/googlechrome.svg">](https://www.google.com/intl/en_ca/chrome/)
-[<img height="32" width="32" align="left" alt="Microsoft Edge" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/microsoftedge.svg">](https://www.microsoft.com/en-us/edge)
-[<img height="32" width="32" align="left" alt="Mamp" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/mamp.svg">](https://www.mamp.info/en/downloads/)
-[<img height="32" width="32" align="left" alt="Safari" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/safari.svg">](https://www.apple.com/ca/safari/)
-[<img height="32" width="32" align="left" alt="Trello" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/trello.svg">](https://trello.com/)
-[<img height="32" width="32" align="left" alt="Slack" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/slack.svg">](https://slack.com/)
+[<img height="32" width="32" alt="Visual Studio Code" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/visualstudio.svg">](https://code.visualstudio.com/)
+[<img height="32" width="32" alt="Github" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/github.svg">](https://github.com/)
+[<img height="32" width="32" alt="Adobe Photoshop" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/adobephotoshop.svg">](https://www.adobe.com/)
+[<img height="32" width="32" alt="Adobe Illustrator" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/adobeillustrator.svg">](https://www.adobe.com/)
+[<img height="32" width="32" alt="Autodesk" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/autodesk.svg">](https://www.autodesk.ca/en)
+[<img height="32" width="32" alt="Blender" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/blender.svg">](https://www.blender.org/)
+[<img height="32" width="32" alt="Figma" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/figma.svg">](https://www.figma.com/)
+[<img height="32" width="32" alt="Mamp" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/mamp.svg">](https://www.mamp.info/en/downloads/)
+[<img height="32" width="32" alt="Trello" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/trello.svg">](https://trello.com/)
 
 <br>
 
 ## Development Languages I Use:
 
-[<img height="32" width="32" align="left" alt="css3" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/css3.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img height="32" width="32" align="left" alt="html5" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/html5.svg">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[<img height="32" width="32" align="left" alt="javascript" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/javascript.svg">](https://www.javascript.com/)
-[<img height="32" width="32" align="left" alt="sass" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/sass.svg">](https://sass-lang.com/)
-[<img height="32" width="32" align="left" alt="typescript" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/typescript.svg">](https://www.typescriptlang.org/)
-[<img height="32" width="32" align="left" alt="php" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/php.svg">](https://www.php.net/)
-[<img height="32" width="32" align="left" alt="react" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/react.svg">](https://reactjs.org/)
-[<img height="32" width="32" align="left" alt="wordpress" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/wordpress.svg">](https://en-ca.wordpress.org/)
+[<img height="32" width="32" alt="css3" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/css3.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img height="32" width="32" alt="html5" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/html5.svg">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[<img height="32" width="32" alt="javascript" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/javascript.svg">](https://www.javascript.com/)
+[<img height="32" width="32" alt="sass" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/sass.svg">](https://sass-lang.com/)
+[<img height="32" width="32" alt="typescript" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/typescript.svg">](https://www.typescriptlang.org/)
+[<img height="32" width="32" alt="php" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/php.svg">](https://www.php.net/)
+[<img height="32" width="32" alt="react" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/react.svg">](https://reactjs.org/)
+[<img height="32" width="32" alt="wordpress" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/wordpress.svg">](https://en-ca.wordpress.org/)
 
 <br>
 
