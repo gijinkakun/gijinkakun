@@ -4,7 +4,7 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 
 <br>
 
-## :books: I am Currently Reading:
+## I am Currently Reading:
 
 <!-- GOODREADS-LIST:START -->
 [**The Umbrella Academy, Vol. 1:  Apocalypse Suite**](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
@@ -12,13 +12,13 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 
 <br>
 
-## :notes: I am Currently Listening To:
+## I am Currently Listening To:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jbhl2wbomiia7zrzlvw4rbnmvm&cover_image=true&theme=novatorem&show_offline=false&bar_color=ffd500&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31jbhl2wbomiia7zrzlvw4rbnmvm&redirect=true)
 
 <br>
 
-## :spiral_notepad: Facts About Me:
+## Facts About Me:
 
 - I’m currently working on [A single page portfolio theme](https://github.com/gijinkakun/gijinkakunfolio) that can be hosted on Github pages.
 - I’m currently learning React.js, Next.js, and Typescript.
@@ -29,7 +29,7 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 
 <br>
 
-## :toolbox: Development Tools I Use:
+## Development Tools I Use:
 
 [<img height="32" width="32" align="left" alt="Visual Studio Code" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/visualstudio.svg">](https://code.visualstudio.com/)
 [<img height="32" width="32" align="left" alt="Github" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/github.svg">](https://github.com/)
@@ -50,7 +50,9 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 <br>
 <br>
 
-## :computer: Development Languages I Use:
+## :
+
+## Development Languages I Use:
 
 [<img height="32" width="32" align="left" alt="css3" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/css3.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img height="32" width="32" align="left" alt="html5" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/html5.svg">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
@@ -65,7 +67,7 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 <br>
 <br>
 
-## :chart_with_upwards_trend: Some Of My Development Stats:
+## Some Of My Development Stats:
 
 <details>
 <summary>Recent GitHub Activity</summary>
@@ -204,7 +206,7 @@ HTML                     1 repo              ███████████�
 
 <br>
 
-## :pen: My Latest Blog Posts:
+## My Latest Blog Posts:
 
 <ul>
 <!-- BLOG-POST-LIST:START --><li><a href='https://dev.to/gijinkakun/making-a-card-with-bem-108p'>Tue Oct 04 2022 - Making a Card Component With BEM</a></li><!-- BLOG-POST-LIST:END -->
@@ -212,13 +214,13 @@ HTML                     1 repo              ███████████�
 
 <br>
 
-## :bird: My Latest Tweets:
+## My Latest Tweets:
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gijinkakun&layout=wide&show_border=off)](https://github.com/gazf/github-readme-twitter)
 
 <br>
 
-## :envelope: Connect With Me:
+## Connect With Me:
 
 [<img alt="codepen" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"/>](https://codepen.io/gijinkakun)
 [<img alt="twitter" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>](https://twitter.com/gijinkakun)
