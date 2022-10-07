@@ -47,10 +47,6 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 [<img height="32" width="32" align="left" alt="Slack" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/slack.svg">](https://slack.com/)
 
 <br>
-<br>
-<br>
-
-## :
 
 ## Development Languages I Use:
 
@@ -63,8 +59,6 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 [<img height="32" width="32" align="left" alt="react" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/react.svg">](https://reactjs.org/)
 [<img height="32" width="32" align="left" alt="wordpress" src="https://github.com/gijinkakun/gijinkakun/blob/main/assets/images/logos/wordpress.svg">](https://en-ca.wordpress.org/)
 
-<br>
-<br>
 <br>
 
 ## Some Of My Development Stats:
