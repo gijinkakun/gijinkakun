@@ -56,7 +56,7 @@ Hello, I am Christopher, a multi-disciplinary web developer with a passion for c
 
 <br>
 
-## Some Of My Development Stats:
+## My Development Stats:
 
 <details>
 <summary>Recent GitHub Activity</summary>
