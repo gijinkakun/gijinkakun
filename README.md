@@ -1,6 +1,10 @@
 # :wave: Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
-Hello, I am Christopher, a multi-disciplinary web developer with a passion for creating innovative, engaging designs over the last 20 years. I started developing websites in 1999 with basic HTML and CSS, making simple web pages. I started expanding my knowledge over time into using SASS, PHP, and JavaScript for web development, which led me to specialize in developing WordPress Themes and Plugins. Some of my other passions are 3D animation, writing tutorials, and reading graphic novels or manga. Please find me on  [LinkedIn](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my whole work experience, education, and certification.
+Hello, I am Christopher, a multi-disciplinary web developer with a passion for creating innovative, engaging designs over the last 20 years. 
+
+I started developing websites in 1999 with basic HTML and CSS, making simple web pages. Expanding my knowledge over time into using SASS, PHP, and JavaScript for web development, which led me to specialize in developing WordPress Themes and Plugins.
+
+Some of my other passions are 3D animation, writing tutorials, and reading graphic novels or manga. Please find me on  [LinkedIn](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my whole work experience, education, and certification.
 
 <br>
 
