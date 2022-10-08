@@ -68,9 +68,9 @@ Some of my other passions are 3D animation, writing tutorials, and reading graph
 <br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/gijinkakun/gijinkakun.github.io/pull/4) in [gijinkakun/gijinkakun.github.io](https://github.com/gijinkakun/gijinkakun.github.io)
-2. 💪 Opened PR [#4](https://github.com/gijinkakun/gijinkakun.github.io/pull/4) in [gijinkakun/gijinkakun.github.io](https://github.com/gijinkakun/gijinkakun.github.io)
-3. 🎉 Merged PR [#3](https://github.com/gijinkakun/gijinkakun.github.io/pull/3) in [gijinkakun/gijinkakun.github.io](https://github.com/gijinkakun/gijinkakun.github.io)
+1. 🎉 Merged PR [#6](https://github.com/gijinkakun/single-page-site/pull/6) in [gijinkakun/single-page-site](https://github.com/gijinkakun/single-page-site)
+2. 💪 Opened PR [#6](https://github.com/gijinkakun/single-page-site/pull/6) in [gijinkakun/single-page-site](https://github.com/gijinkakun/single-page-site)
+3. 🎉 Merged PR [#5](https://github.com/gijinkakun/single-page-site/pull/5) in [gijinkakun/single-page-site](https://github.com/gijinkakun/single-page-site)
 <!--END_SECTION:activity-->
   
 </details>
