@@ -174,7 +174,7 @@ HTML                     1 repo              ███████████�
 
 <!-- TODO-IST:START -->
 🏆  1,339 Karma Points           
-🌸  Completed 6 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 38 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
