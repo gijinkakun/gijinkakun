@@ -97,7 +97,7 @@ Some of my other passions are 3D animation, writing tutorials, and reading graph
 
 > 🏆 250 Contributions in the Year 2022
  > 
-> 📦 556 Bytes Used in GitHub's Storage 
+> 📦 561 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -132,17 +132,17 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-SCSS                     14 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   39.82% 
-JavaScript               8 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98% 
-HTML                     5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
-TypeScript               5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
-JSON                     1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38%
+JavaScript               8 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   31.42% 
+SCSS                     7 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+TypeScript               5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
+HTML                     4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76% 
+JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.43%
 
 🔥 Editors: 
-VS Code                  37 hrs 14 mins      █████████████████████████   100.0%
+VS Code                  28 hrs 21 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Gijinkakunfolio          37 hrs 14 mins      █████████████████████████   100.0%
+Gijinkakunfolio          28 hrs 21 mins      █████████████████████████   100.0%
 
 ```
 
@@ -160,7 +160,7 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/gijinkakun/gijinkakun/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/10/2022 02:33:56 UTC
+ Last Updated on 17/10/2022 02:35:25 UTC
 <!--END_SECTION:waka-->
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
