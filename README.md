@@ -95,7 +95,7 @@ Some of my other passions are 3D animation, writing tutorials, and reading graph
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 365 Bytes Used in GitHub's Storage 
+> 📦 382 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2023
  > 
@@ -130,16 +130,16 @@ Sunday                   39 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      7 hrs 23 mins       █████████████████████████   98.21 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+PHP                      7 hrs 4 mins        ████████████████████████░   95.77 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Kraken-Careers           7 hrs 31 mins       █████████████████████████   100.00 % 
+Kraken-Careers           7 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -155,7 +155,7 @@ HTML                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/gijinkakun/gijinkakun/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2023 01:24:28 UTC
+ Last Updated on 24/02/2023 01:26:21 UTC
 <!--END_SECTION:waka-->
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
