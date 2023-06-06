@@ -95,7 +95,7 @@ Some of my other passions are 3D animation, writing tutorials, and reading graph
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 450 Bytes Used in GitHub's Storage 
+> 📦 454 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2023
  > 
@@ -152,7 +152,7 @@ HTML                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/gijinkakun/gijinkakun/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2023 01:39:41 UTC
+ Last Updated on 06/06/2023 01:41:09 UTC
 <!--END_SECTION:waka-->
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
