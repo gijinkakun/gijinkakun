@@ -130,13 +130,18 @@ Sunday                   39 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      4 hrs 47 mins       █████████████████░░░░░░░░   68.39 % 
+Other                    1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Kraken-Careers           6 hrs 59 mins       █████████████████████████   99.70 % 
+kraken-theme             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -152,7 +157,7 @@ HTML                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/gijinkakun/gijinkakun/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2023 01:40:19 UTC
+ Last Updated on 09/06/2023 01:41:04 UTC
 <!--END_SECTION:waka-->
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
