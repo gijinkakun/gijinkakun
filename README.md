@@ -187,7 +187,7 @@ HTML                     1 repo              ███████████�
 <br>
   
 - **OS:** MAC OS
-- **Laptop:** 2019 Mac Book Pro.
+- **Laptop:** M2 Mac Book Pro.
 - **Browser:** Chrome Web Browser.
 - **Code Editor:** VSCode - The best editor out there.
 - **Design:** Photoshop, Illustrator, and Figma.
@@ -201,12 +201,6 @@ HTML                     1 repo              ███████████�
 <ul>
 <!-- BLOG-POST-LIST:START --><li><a href='https://dev.to/gijinkakun/making-a-card-with-bem-108p'>Tue Oct 04 2022 - Making a Card Component With BEM</a></li><!-- BLOG-POST-LIST:END -->
 </ul>
-
-<br>
-
-## My Latest Tweets:
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gijinkakun&layout=wide&show_border=off)](https://github.com/gazf/github-readme-twitter)
 
 <br>
 
