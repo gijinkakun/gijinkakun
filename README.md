@@ -88,15 +88,8 @@ Beyond the screen, I'm an avid reader and perpetual learner, always delving into
  
 ![Gijinkakun's Trophies](https://github-profile-trophy.vercel.app/?username=gijinkakun&margin-w=15&theme=oldie&column=4&margin-w=20&margin-h=20)
 
-<img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
