@@ -89,6 +89,15 @@ Beyond the screen, I'm an avid reader and perpetual learner, always delving into
 ![Gijinkakun's Trophies](https://github-profile-trophy.vercel.app/?username=gijinkakun&margin-w=15&theme=oldie&column=4&margin-w=20&margin-h=20)
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   5 hrs 21 mins   █████████▒░░░░░░░░░░░░░░░   37.21 %
+PHP          5 hrs 6 mins    █████████░░░░░░░░░░░░░░░░   35.43 %
+SCSS         1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+HTML         58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+CSS          44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+```
+
 <!--END_SECTION:waka-->
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
