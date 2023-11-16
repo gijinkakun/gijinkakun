@@ -88,77 +88,15 @@ Beyond the screen, I'm an avid reader and perpetual learner, always delving into
  
 ![Gijinkakun's Trophies](https://github-profile-trophy.vercel.app/?username=gijinkakun&margin-w=15&theme=oldie&column=4&margin-w=20&margin-h=20)
 
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 490 Bytes Used in GitHub's Storage 
- > 
-> 🏆 1 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                93 commits          ██████████░░░░░░░░░░░░░░░   41.89 % 
-🌆 Daytime                60 commits          ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-🌃 Evening                30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-🌙 Night                  39 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   99 commits          ███████████░░░░░░░░░░░░░░   44.59 % 
-Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Wednesday                36 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Thursday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Friday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-PHP                      16 hrs 38 mins      ███████████████████░░░░░░   76.48 % 
-CSS                      2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-JavaScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-SCSS                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-
-🔥 Editors: 
-VS Code                  18 hrs 30 mins      █████████████████████░░░░   85.06 % 
-Unknown Editor           3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-
-🐱‍💻 Projects: 
-kraken-products          13 hrs 25 mins      ███████████████░░░░░░░░░░   61.70 % 
-kraken-2.0               6 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.33 % 
-Kraken-Projects          1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-kraken-child-2.0         13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Kraken-Careers           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     1 repo              █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/gijinkakun/gijinkakun/main/assets/bar_graph.png)
-
-
- Last Updated on 31/10/2023 01:07:06 UTC
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
