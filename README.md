@@ -1,10 +1,8 @@
 # :wave: Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
-Hello, I am Christopher, a multi-disciplinary web developer with a passion for creating innovative, engaging designs over the last 20 years. 
+Greetings! I'm Christopher Satterthwaite, a seasoned professional with over two decades of experience in the dynamic realms of web development, game design, and animation. Throughout my career, I've honed my skills, bringing digital worlds to life and creating engaging user experiences.
 
-I started developing websites in 1999 with basic HTML and CSS, making simple web pages. Expanding my knowledge over time into using SASS, PHP, and JavaScript for web development, which led me to specialize in developing WordPress Themes and Plugins.
-
-Some of my other passions are 3D animation, writing tutorials, and reading graphic novels or manga. Please find me on  [LinkedIn](https://www.linkedin.com/in/gijinkakun) for a more detailed description of my whole work experience, education, and certification.
+Beyond the screen, I'm an avid reader and perpetual learner, always delving into new realms of knowledge. My passion extends to antique collecting, where the stories of the past come alive, and I find joy in building my comic collection. 
 
 <br>
 
@@ -24,12 +22,10 @@ Some of my other passions are 3D animation, writing tutorials, and reading graph
 
 ## Facts About Me:
 
-- I’m currently working on [A single page portfolio theme](https://github.com/gijinkakun/gijinkakunfolio) that can be hosted on Github pages.
 - I’m currently learning React.js, Next.js, and Typescript.
 - All of my projects are available here on [Github](https://github.com/gijinkakun/).
 - Ask me about SASS, JavaScript, Adobe products, HTML, CSS, and general Web Development.
-- Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gijinkakun).
-- When I have free time, I read graphic novels, manga, and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/user/show/156742507-christopher) to see the book I have read.
+- I love to read. Checkout my [Goodreads](https://www.goodreads.com/user/show/156742507-christopher) to see the books I have read.
 
 <br>
 
@@ -189,8 +185,8 @@ HTML                     1 repo              ███████████�
   
 - **OS:** MAC OS
 - **Laptop:** M2 Mac Book Pro.
-- **Browser:** Chrome Web Browser.
-- **Code Editor:** VSCode - The best editor out there.
+- **Browser:** Chrome, Safari, Firefox.
+- **Code Editor:** VSCode, Sublime, Eclipse.
 - **Design:** Photoshop, Illustrator, and Figma.
   
 </details>
@@ -202,18 +198,3 @@ HTML                     1 repo              ███████████�
 <ul>
 <!-- BLOG-POST-LIST:START --><li><a href='https://dev.to/gijinkakun/making-a-card-with-bem-108p'>Tue Oct 04 2022 - Making a Card Component With BEM</a></li><!-- BLOG-POST-LIST:END -->
 </ul>
-
-<br>
-
-## Connect With Me:
-
-[<img alt="codepen" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"/>](https://codepen.io/gijinkakun)
-[<img alt="twitter" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>](https://twitter.com/gijinkakun)
-[<img alt="linkedin" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>](https://www.linkedin.com/in/gijinkakun)
-
-<br>
-<br>
-
-## Show Your Support?
-
-Loved my work? Please consider [buying me a coffe :coffee:](https://paypal.me/gijinkakun?country.x=CA&locale.x=en_US) to help out :hugs:.
