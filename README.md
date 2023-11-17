@@ -2,8 +2,6 @@
 
 Greetings! I'm Christopher Satterthwaite, a seasoned professional with over two decades of experience in the dynamic realms of web development, game design, and animation. Throughout my career, I've honed my skills, bringing digital worlds to life and creating engaging user experiences.
 
-Beyond the screen, I'm an avid reader and perpetual learner, always delving into new realms of knowledge. My passion extends to antique collecting, where the stories of the past come alive, and I find joy in building my comic collection. 
-
 <br>
 
 ## I am Currently Reading:
