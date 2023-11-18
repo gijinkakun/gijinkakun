@@ -7,7 +7,7 @@ Greetings! I'm Christopher Satterthwaite, a seasoned professional with over two 
 ## I am Currently Reading:
 
 <!-- GOODREADS-LIST:START -->
-[**The Umbrella Academy, Vol. 1:  Apocalypse Suite**](https://www.goodreads.com/review/show/5022852959?utm_medium=api&utm_source=rss) by Gerard Way (⭐️3.86)
+[**The Twelve Kingdoms: Sea of Shadow (The Twelve Kingdoms, #1)**](https://www.goodreads.com/review/show/5982887656?utm_medium=api&utm_source=rss) by Fuyumi Ono (⭐️4.22)
 <!-- GOODREADS-LIST:END -->
 
 <br>
