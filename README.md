@@ -4,23 +4,8 @@ Greetings! I'm Christopher Satterthwaite, a seasoned professional with over two 
 
 <br>
 
-## I am Currently Reading:
-
-<!-- GOODREADS-LIST:START -->
-[**The Twelve Kingdoms: Sea of Shadow (The Twelve Kingdoms, #1)**](https://www.goodreads.com/review/show/5982887656?utm_medium=api&utm_source=rss) by Fuyumi Ono (⭐️4.22)
-<!-- GOODREADS-LIST:END -->
-
-<br>
-
-## I am Currently Listening To:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jbhl2wbomiia7zrzlvw4rbnmvm&cover_image=true&theme=novatorem&show_offline=false&bar_color=ffd500&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31jbhl2wbomiia7zrzlvw4rbnmvm&redirect=true)
-
-<br>
-
 ## Facts About Me:
 
-- I’m currently learning React.js, Next.js, and Typescript.
 - All of my projects are available here on [Github](https://github.com/gijinkakun/).
 - Ask me about SASS, JavaScript, Adobe products, HTML, CSS, and general Web Development.
 - I love to read. Checkout my [Goodreads](https://www.goodreads.com/user/show/156742507-christopher) to see the books I have read.
