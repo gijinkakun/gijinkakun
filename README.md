@@ -74,11 +74,11 @@ Greetings! I'm Christopher Satterthwaite, a seasoned professional with over two 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   15 hrs 44 mins  █████████████▓░░░░░░░░░░░   54.54 %
-CSS          7 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
-PHP          5 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
-SCSS         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Text         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+JavaScript   16 hrs 31 mins  ██████████████▒░░░░░░░░░░   57.45 %
+PHP          6 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.24 %
+CSS          4 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+SCSS         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
