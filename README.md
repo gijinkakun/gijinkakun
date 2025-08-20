@@ -8,7 +8,7 @@ Greetings! I'm Christopher Satterthwaite, a seasoned professional with over two 
 
 - All of my projects are available here on [Github](https://github.com/gijinkakun/).
 - Ask me about SASS, JavaScript, Adobe products, HTML, CSS, and general Web Development.
-- I love to read. Checkout my [Goodreads](https://www.goodreads.com/user/show/156742507-christopher) to see the books I have read.
+
 
 <br>
 
