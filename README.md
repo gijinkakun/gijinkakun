@@ -74,9 +74,8 @@ Greetings! I'm Christopher Satterthwaite, a seasoned professional with over two 
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 1 min      ████████████████████▒░░░░   81.43 %
-YAML       10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-Java       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Markdown   1 hr 1 min      ██████████████████████░░░   87.58 %
+YAML       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
 ```
 
 <!--END_SECTION:waka-->
